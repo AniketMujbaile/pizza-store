@@ -6,11 +6,11 @@ to making the order ready.
 ### 🔗 Hosted link: [Pizza-Shop](https://xnpm9c-3000.csb.app/)
 
 ## 🧑‍💻Screenshots
-<img src="" width="500px">
+<img src="https://github.com/AniketMujbaile/pizza-store/blob/main/Img/Img1.png" width="500px">
 <hr/>
-<img src="" width="500px">
+<img src="https://github.com/AniketMujbaile/pizza-store/blob/main/Img/Img2.png" width="500px">
 <hr/>
-<img src="" width="500px">
+<img src="https://github.com/AniketMujbaile/pizza-store/blob/main/Img/Img3.png" width="500px">
 
 ## 🛠️Technologies Used
 
